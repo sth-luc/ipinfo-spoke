@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_hub_action_type_definition">
+    <sys_hub_action_type_definition action="DELETE">
+        <access>public</access>
+        <acls/>
+        <action_status/>
+        <action_template/>
+        <active>true</active>
+        <annotation/>
+        <callable_by_client_api>false</callable_by_client_api>
+        <category/>
+        <compiler_build/>
+        <copied_from/>
+        <copied_from_name/>
+        <description>Get geographic data from a public IP address.</description>
+        <ih_action>false</ih_action>
+        <internal_name>get_geographic_data_from_ip</internal_name>
+        <label_cache/>
+        <latest_snapshot/>
+        <master_snapshot/>
+        <name>Get Geographic Data from IP</name>
+        <natlang/>
+        <outputs/>
+        <pre_compiled>false</pre_compiled>
+        <state>draft</state>
+        <sys_class_name>sys_hub_action_type_definition</sys_class_name>
+        <sys_created_by>fred.luddy</sys_created_by>
+        <sys_created_on>2023-02-09 12:10:18</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>087d8f9b1bb461109f3a8623604bcb73</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Get Geographic Data from IP</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="IPInfo Spoke" source="x_963158_ipinfo_sp">62ec87d71bb461109f3a8623604bcb85</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="IPInfo Spoke">62ec87d71bb461109f3a8623604bcb85</sys_scope>
+        <sys_update_name>sys_hub_action_type_definition_087d8f9b1bb461109f3a8623604bcb73</sys_update_name>
+        <sys_updated_by>fred.luddy</sys_updated_by>
+        <sys_updated_on>2023-02-09 12:10:18</sys_updated_on>
+        <system_level>false</system_level>
+        <type/>
+    </sys_hub_action_type_definition>
+    <sys_translated_text action="DELETE" query="documentkey=087d8f9b1bb461109f3a8623604bcb73"/>
+    <sys_variable_value action="DELETE" query="document_key=087d8f9b1bb461109f3a8623604bcb73"/>
+    <sys_hub_step_instance action="DELETE" query="action=087d8f9b1bb461109f3a8623604bcb73"/>
+    <sys_hub_action_input action="DELETE" query="model=087d8f9b1bb461109f3a8623604bcb73"/>
+    <sys_hub_action_output action="DELETE" query="model=087d8f9b1bb461109f3a8623604bcb73"/>
+    <sys_hub_pill_compound action="DELETE" query="attached_to=087d8f9b1bb461109f3a8623604bcb73"/>
+    <sys_hub_action_status_metadata action="DELETE" query="action_type_id=087d8f9b1bb461109f3a8623604bcb73"/>
+    <sys_documentation action="DELETE" query="name=var__m_sys_hub_action_input_087d8f9b1bb461109f3a8623604bcb73"/>
+    <sys_choice action="DELETE" query="name=var__m_sys_hub_action_input_087d8f9b1bb461109f3a8623604bcb73"/>
+    <sys_documentation action="DELETE" query="name=var__m_sys_hub_action_output_087d8f9b1bb461109f3a8623604bcb73"/>
+    <sys_choice action="DELETE" query="name=var__m_sys_hub_action_output_087d8f9b1bb461109f3a8623604bcb73"/>
+    <sys_hub_action_plan action="DELETE" query="action_id=087d8f9b1bb461109f3a8623604bcb73"/>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="IPInfo Spoke">62ec87d71bb461109f3a8623604bcb85</application>
+        <file_path/>
+        <instance_id>5a764bb9dbc728109a4dcac50596198a</instance_id>
+        <instance_name>dev108051</instance_name>
+        <name>sys_hub_action_type_definition_087d8f9b1bb461109f3a8623604bcb73</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_hub_action_type_definition"><sys_hub_action_type_definition action="INSERT_OR_UPDATE"><access>public</access><acls/><action_status/><action_template/><active>true</active><annotation/><callable_by_client_api>false</callable_by_client_api><category/><compiler_build/><copied_from/><copied_from_name/><description>Get geographic data from a public IP address.</description><ih_action>false</ih_action><internal_name>get_geographic_data_from_ip</internal_name><label_cache/><latest_snapshot/><master_snapshot/><name>Get Geographic Data from IP</name><natlang/><outputs/><pre_compiled>false</pre_compiled><state>draft</state><sys_class_name>sys_hub_action_type_definition</sys_class_name><sys_created_by>fred.luddy</sys_created_by><sys_created_on>2023-02-09 12:10:18</sys_created_on><sys_domain>global</sys_domain><sys_domain_path>/</sys_domain_path><sys_id>087d8f9b1bb461109f3a8623604bcb73</sys_id><sys_mod_count>0</sys_mod_count><sys_name>Get Geographic Data from IP</sys_name><sys_overrides/><sys_package display_value="IPInfo Spoke" source="x_963158_ipinfo_sp">62ec87d71bb461109f3a8623604bcb85</sys_package><sys_policy/><sys_scope display_value="IPInfo Spoke">62ec87d71bb461109f3a8623604bcb85</sys_scope><sys_update_name>sys_hub_action_type_definition_087d8f9b1bb461109f3a8623604bcb73</sys_update_name><sys_updated_by>fred.luddy</sys_updated_by><sys_updated_on>2023-02-09 12:10:18</sys_updated_on><system_level>false</system_level><type/></sys_hub_action_type_definition><sys_translated_text action="delete_multiple" query="documentkey=087d8f9b1bb461109f3a8623604bcb73"/><sys_variable_value action="delete_multiple" query="document_key=087d8f9b1bb461109f3a8623604bcb73"/><sys_hub_step_instance action="delete_multiple" query="action=087d8f9b1bb461109f3a8623604bcb73"/><sys_hub_action_input action="delete_multiple" query="model=087d8f9b1bb461109f3a8623604bcb73"/><sys_hub_action_output action="delete_multiple" query="model=087d8f9b1bb461109f3a8623604bcb73"/><sys_hub_pill_compound action="delete_multiple" query="attached_to=087d8f9b1bb461109f3a8623604bcb73"/><sys_hub_action_status_metadata action="delete_multiple" query="action_type_id=087d8f9b1bb461109f3a8623604bcb73"/><sys_documentation action="delete_multiple" query="name=var__m_sys_hub_action_input_087d8f9b1bb461109f3a8623604bcb73"/><sys_choice action="delete_multiple" query="name=var__m_sys_hub_action_input_087d8f9b1bb461109f3a8623604bcb73"/><sys_documentation action="delete_multiple" query="name=var__m_sys_hub_action_output_087d8f9b1bb461109f3a8623604bcb73"/><sys_choice action="delete_multiple" query="name=var__m_sys_hub_action_output_087d8f9b1bb461109f3a8623604bcb73"/><sys_hub_action_plan action="delete_multiple" query="action_id=087d8f9b1bb461109f3a8623604bcb73"/></record_update>]]></payload>
+        <payload_hash>464830938</payload_hash>
+        <record_name>Get Geographic Data from IP</record_name>
+        <reverted_from/>
+        <source>26ec87d71bb461109f3a8623604bcb87</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>fred.luddy</sys_created_by>
+        <sys_created_on>2023-02-09 12:10:19</sys_created_on>
+        <sys_id>187d07db1bb461109f3a8623604bcbca</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>18636156d1b0000001</sys_recorded_at>
+        <sys_updated_by>fred.luddy</sys_updated_by>
+        <sys_updated_on>2023-02-09 12:10:19</sys_updated_on>
+        <type>Action Type</type>
+        <update_guid>507d07dbb8b461102c2211d0ea34c6ca</update_guid>
+        <update_guid_history>507d07dbb8b461102c2211d0ea34c6ca:464830938</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>fred.luddy</sys_created_by>
+        <sys_created_on>2023-02-09 12:20:17</sys_created_on>
+        <sys_db_object display_value="" name="sys_hub_action_type_definition">sys_hub_action_type_definition</sys_db_object>
+        <sys_id>839d603378994a7783bceacd550b6eb1</sys_id>
+        <sys_metadata>087d8f9b1bb461109f3a8623604bcb73</sys_metadata>
+        <sys_name>Get Geographic Data from IP</sys_name>
+        <sys_package display_value="IPInfo Spoke" source="x_963158_ipinfo_sp">62ec87d71bb461109f3a8623604bcb85</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="IPInfo Spoke">62ec87d71bb461109f3a8623604bcb85</sys_scope>
+        <sys_scope_delete display_value="">5c872156adb64540ba5cc39722401000</sys_scope_delete>
+        <sys_update_name>sys_hub_action_type_definition_087d8f9b1bb461109f3a8623604bcb73</sys_update_name>
+        <sys_update_version display_value="sys_hub_action_type_definition_087d8f9b1bb461109f3a8623604bcb73">187d07db1bb461109f3a8623604bcbca</sys_update_version>
+    </sys_metadata_delete>
+</record_update>
